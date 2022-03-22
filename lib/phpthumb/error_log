@@ -1,0 +1,380 @@
+[26-Jan-2022 10:39:51 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[26-Jan-2022 10:39:51 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:23 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:37 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:37 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/FARMAKOLOGI_KEBIDANAN.jpeg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/farmakologi_dan_terapi_edisi_5.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/farmakologi_dan_terapi_edisi_5.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/farmakologi_dasar_&amp;_klinik_vol_2_edisi_12.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/farmakologi_dasar_&_klinik_vol_2_edisi_12.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/farmakologi_ulasan_bergambar_edisi_4.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/farmakologi_ulasan_bergambar_edisi_4.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[31-Jan-2022 09:48:53 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/farmakologi_dan_terapi_edisi_5.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[31-Jan-2022 09:48:53 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/farmakologi_dan_terapi_edisi_5.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[14-Feb-2022 09:22:36 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[14-Feb-2022 09:22:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[14-Feb-2022 09:22:36 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/keterampilan_dasar_praktik_klinik.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[14-Feb-2022 09:22:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/keterampilan_dasar_praktik_klinik.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:22 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:23 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:23 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:28 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:28 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 10:58:28 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 10:58:28 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:03:26 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:03:26 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Asuhan_kebidanan_pada_ibu_nifas.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Buku_panduan_praktik_ketrampilan_asuhan_kebidanan_patologi.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:51 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[09-Mar-2022 11:09:51 Asia/Jakarta] PHP Warning:  getimagesize(../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg): failed to open stream: No such file or directory in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php on line 37
+[09-Mar-2022 11:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/Penuntun_belajar_keterampilan_dasar_praktik_klinik_kebidanan.jpg' in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/perpus13/katalogg.perpustakaan-soepraoen.org/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:48:47 UTC] PHP Warning:  getimagesize(../../images/docs/rencana_asuhan_keperawatan_medikal_bedah.jpg): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:48:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/rencana_asuhan_keperawatan_medikal_bedah.jpg' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:48:47 UTC] PHP Warning:  getimagesize(../../images/docs/belajar_mudah_kep_medikal_bedah_vol_2.jpg): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:48:47 UTC] PHP Warning:  getimagesize(../../images/docs/kep_medikal_bedah_mary_digiulio.jpg): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:48:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/belajar_mudah_kep_medikal_bedah_vol_2.jpg' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:48:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/kep_medikal_bedah_mary_digiulio.jpg' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:48:47 UTC] PHP Warning:  getimagesize(../../images/docs/belajar_mudah_kep_medikal_bedal_vol_1.png): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:48:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/belajar_mudah_kep_medikal_bedal_vol_1.png' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:49:51 UTC] PHP Warning:  getimagesize(../../images/docs/gawat_darurat_medis_praktis.jpg): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:49:51 UTC] PHP Warning:  getimagesize(../../images/docs/pedoman_pertolongan_pertama.jpg): failed to open stream: No such file or directory in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php on line 37
+[16-Mar-2022 02:49:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/pedoman_pertolongan_pertama.jpg' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
+[16-Mar-2022 02:49:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ../../images/docs/gawat_darurat_medis_praktis.jpg' in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/GdThumb.inc.php(96): ThumbBase->__construct('../../images/do...', false)
+#3 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbLib.inc.php(127): GdThumb->__construct('../../images/do...', Array, false)
+#4 /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/phpThumb.php(60): PhpThumbFactory::create('../../images/do...')
+#5 {main}
+  thrown in /home/itsksoep/katalog.itsk-soepraoen.ac.id/lib/phpthumb/ThumbBase.inc.php on line 193
